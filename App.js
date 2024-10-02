@@ -14,4 +14,3 @@ console.log("Multiplication of 50 and 20 is "
  
 console.log("Division of 50 and 20 is "
     + calculator.div(x, y));
-console.log("Thank you")
